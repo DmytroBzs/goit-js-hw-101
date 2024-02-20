@@ -1,0 +1,14 @@
+.timer {
+  display: flex;
+  font-size: 3rem;
+  margin-top: 2rem;
+}
+
+.timer span {
+  width: 3rem;
+  height: 3rem;
+  line-height: 5rem;
+  box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+}
